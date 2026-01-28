@@ -3,7 +3,7 @@
 A supportive, anonymous AI chatbot designed to help students manage stress, anxiety, and loneliness.  
 Built as a capstone project — uses **free** APIs only (Groq + Llama 3.1).
 
-![Chat screenshot](screenshot-chat.png)  
+![Chat screenshot]("C:\Users\MOINUDDIN\OneDrive\Pictures\Screenshots\Screenshot 2026-01-28 195640.png")  
 *(Add your own screenshot here later)*
 
 ## Features
